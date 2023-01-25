@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Flávia Miranda
 ======================================================================================================================================
-
-Junior Full-Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair&pause=1000&color=FF68B8&center=true&vCenter=true&width=435&lines=Junior+Full-Stack+Developer)](https://git.io/typing-svg)
 ---------------------------
 
 I've been learning to code for a year, after switching careers. I started with HTML, CSS and vanilla JavaScript, followed by a School of Code Full-Stack Bootcamp, and have really found a passion for development. I am currently working on full-stack applications and looking for a starting job position where I can deepen my skills even more.
