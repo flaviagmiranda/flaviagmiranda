@@ -8,7 +8,7 @@ I've been learning to code for a year, after switching careers. I started with H
 * 🌍  I'm a luso-brazilian based in São Paulo, Brazil.
 * ✉️  You can contact me at [flaviagracianom@gmail.com](mailto:flaviagracianom@gmail.com)
 * 🧠  I'm learning TypeScript
-* ⚡  Worth to mention I have the right to live and work in the UK with no sponsorship. I love history, cultural curiosities, travelling and movies. I also surf a bit. 😊
+* ⚡  It's worth to mention I have the right to live and work in the UK with no sponsorship. I love history, cultural curiosities, travelling and movies. I also surf a bit. 😊
 
 ### Skills
 
