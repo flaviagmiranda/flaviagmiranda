@@ -17,15 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### About  
 <!-- gif Image -->
 <img src="https://i.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.webp" alt="side Image" align="right" width="260" height="auto" />
-I've been learning to code for a year, after switching careers. I started with HTML, CSS and vanilla JavaScript, followed by a School of Code Full-Stack Bootcamp, and have really found a passion for development. I am currently working on full-stack applications and looking for a starting job position where I can deepen my skills even more.
-
-- 🌱 I’m currently cementing my knowledge on TypeScript and Testing  
-  
-
-- 👩🏻‍💻 My ongoing project is my Portfolio website  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+My history with code is not a traditional one. I'm currently working as a Front-End Developer, and I've been learning to code for a year, after switching careers. I started with HTML, CSS and vanilla JavaScript, followed by a School of Code Full-Stack Bootcamp, and have really found a passion for development.  
 
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
