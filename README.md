@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### About  
 <!-- gif Image -->
 <img src="https://i.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.webp" alt="side Image" align="right" width="260" height="auto" />
-My history with code is not a traditional one. I'm currently working as a Front-End Developer, and I've been learning to code for a year, after switching careers. I started with HTML, CSS and vanilla JavaScript, followed by a School of Code Full-Stack Bootcamp, and have really found a passion for development.  
+Currently working as a Front-End Developer for Vertu Motors PLC. 
 
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -26,6 +26,7 @@ My history with code is not a traditional one. I'm currently working as a Front-
   ____
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
