@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Flávia Miranda
 ======================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair&pause=1000&color=FF68B8&center=true&vCenter=true&width=435&lines=Junior+Full-Stack+Developer)](https://git.io/typing-svg)
----------------------------
 
 <div align="center">
 <a href="https://linkedin.com/in/flaviiamiranda/" target="_blank">
